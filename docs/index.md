@@ -1,4 +1,4 @@
-Welcome to Plant Pot RP, your ultimate destination for immersive role-playing experiences within the FiveM universe!
+Welcome to [Plant Pot RP](https://servers.fivem.net/servers/detail/dodkkq), your ultimate destination for immersive role-playing experiences within the FiveM universe!
 
 Plant Pot RP offers a diverse and engaging community where players can delve into a variety of roles and scenarios, from law enforcement and emergency services to entrepreneurs and everyday citizens. Whether you're patrolling the streets as a dedicated officer, saving lives as a heroic medic, or building your empire as a savvy entrepreneur, there's a place for everyone in our ever-evolving world.
 
