@@ -1,0 +1,45 @@
+site_name: Plant Pot RP Docs
+site_url: https://plantpotrp.jdbnet.co.uk
+copyright: Copyright &copy; 2024-<script>document.write(new Date().getFullYear())</script> JDB-NET
+repo_url: https://github.com/jdbnet/plantpotrp-docs
+repo_name: jdbnet/plantpotrp-docs
+theme:
+  name: material
+  favicon: 'img/favicon.ico'
+  logo: 'img/favicon.ico'
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  features:
+  - content.code.copy
+  - content.code.select
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+  - git-authors
+  - privacy
