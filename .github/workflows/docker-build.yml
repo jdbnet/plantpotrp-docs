@@ -18,13 +18,13 @@ jobs:
         with:
           fetch-depth: 0
       - name: Log in to GHCR
-        uses: docker/login-action@e92390c5fb421da1463c202d546fed0ec5c39f20
+        uses: docker/login-action@v3
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
       - name: Build and push Docker image
-        uses: docker/build-push-action@090ca155fc9b214cbcac536c450455a0e96f52c6
+        uses: docker/build-push-action@v5
         with:
           context: .  # Build context (path to Dockerfile)
           push: true
