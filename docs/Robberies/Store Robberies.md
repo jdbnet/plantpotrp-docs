@@ -8,6 +8,4 @@ If you successfully pick the lock, the cash register will then begin being empti
 
 You should then get marked money added to your inventory.
 
-To wash this marked money, go to one of the 'Money Wash' locations on the map and speak to the ped.
-
-They will wash your money and give you clean cash in return.
+To wash this marked money, view the instructions [here](https://plantpotrp.jdbnet.co.uk/Services/Money%20Wash/)
