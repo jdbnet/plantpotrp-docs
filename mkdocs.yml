@@ -49,3 +49,4 @@ plugins:
       type: timeago
   - git-authors
   - privacy
+  - mkdocs-video
