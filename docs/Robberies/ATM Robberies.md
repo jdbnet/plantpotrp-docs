@@ -8,4 +8,4 @@ Once complete, you should then get marked money added to your inventory.
 
 To wash this marked money, view the instructions [here](https://plantpotrp.jdbnet.co.uk/Services/Money%20Wash/)
 
-![type:video](atmrobbery.mp4)
+![type:video](https://www.youtube.com/embed/5CUQE2RKThQ?si=SLX6IWn6DpaMILBJ)

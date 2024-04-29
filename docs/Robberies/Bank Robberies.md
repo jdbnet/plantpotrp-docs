@@ -11,3 +11,5 @@ The first room contains one trolley of money. The second room contains two addit
 Once the robbery is complete, you will get marked money.
 
 To wash this marked money, view the instructions [here](https://plantpotrp.jdbnet.co.uk/Services/Money%20Wash/)
+
+![type:video](https://www.youtube.com/embed/IiFwP1LjJPA?si=mlyrKb_geiHZrWDT)
