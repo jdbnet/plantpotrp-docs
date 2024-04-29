@@ -7,3 +7,5 @@ You will then begin to rob the ATM, then after some time you will be prompted to
 Once complete, you should then get marked money added to your inventory.
 
 To wash this marked money, view the instructions [here](https://plantpotrp.jdbnet.co.uk/Services/Money%20Wash/)
+
+![type:video](atmrobbery.mp4)
